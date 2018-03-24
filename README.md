@@ -1,6 +1,6 @@
 # vuechat
 
-> A Vue.js project
+make vuechat with firebase
 
 ## Build Setup
 
